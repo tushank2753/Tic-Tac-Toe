@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-A simple and responsive Tic Tac Toe game built using HTML, CSS, and JavaScript. This project allows two players to play, detects winners or draws, and provides a reset option with a clean and interactive UI.
+A simple and responsive Tic Tac Toe game built using HTML, CSS, and JavaScript. This project allows two players to play, detects winners or draws.
 
 🚀 **Features**
 - Two-player gameplay (X and O)
@@ -13,5 +13,10 @@ A simple and responsive Tic Tac Toe game built using HTML, CSS, and JavaScript. 
 - JavaScript (ES6+) – Functionality and interactivity
 
 📂 **Project Structure**
-Tic-Tac-Toe/
 
+```bash
+Tic-Tac-Toe/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
